@@ -1,4 +1,4 @@
-#Technical Documentation Page
+# Technical Documentation Page
 
 this is a FreeCodeCamp.org project on responsive design
 
